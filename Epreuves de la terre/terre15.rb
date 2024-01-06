@@ -4,5 +4,5 @@
 
 
 print "Voici mon cri de victoire : "
-puts "Houuuuuuuuuuuuuaaaaaaaa"
+puts "Houuuuuuuuuuuuuaaaaaaaaou"
 
